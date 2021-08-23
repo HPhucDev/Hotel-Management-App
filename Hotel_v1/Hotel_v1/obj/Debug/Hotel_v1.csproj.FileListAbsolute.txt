@@ -1,0 +1,149 @@
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v1\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2)\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_v2 - Copy (2) - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\Hotel_17_4_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\bin\Debug\Guna.UI2.dll
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.frmQuanLyNhanVien.resources
+G:\course\lập trình trên window\19_05_2021\Hotel_19_5_2021\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.frmCalendar.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.CalendarForm.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageNhanVien.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageRoom.resources
+C:\Users\Hoang Phuc\Downloads\New folder\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomDetail.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csprojAssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.CalendarForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageNhanVien.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomCheckIn.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.AddService.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomCheckOut.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomService.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.UpdateServiceForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageRoomForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.AboutForm.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.CheckInOut.resources
+C:\Users\Hoang Phuc\Desktop\11\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.SalaryForDayForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe.config
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.AboutForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.CheckInOut.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.SalaryForDayForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.AddService.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomCheckIn.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomCheckOut.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.RoomService.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.CalendarForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.LoginForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MainForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageRoomForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.Properties.Resources.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ManageNhanVien.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.UpdateServiceForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.GenerateResource.cache
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.CopyComplete
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.exe
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.pdb
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.csproj.AssemblyReference.cache
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ArchiveForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.BillPrint.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ListCustomerForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.ProfitForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.MyCalendar.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\obj\Debug\Hotel_v1.DisbursementForm.resources
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\OxyPlot.dll
+C:\Users\Hoang Phuc\Desktop\11 - Copy\Hotel_v1\Hotel_v1\bin\Debug\OxyPlot.xml
